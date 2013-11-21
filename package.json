@@ -1,0 +1,7 @@
+{
+  "name": "askfor",
+  "version": "0.0.1",
+  "author": "Sergey Todyshev <stodyshev@gmail.com>",
+  "repository": "git://github.com/sergeyt/askfor",
+  "dependencies": {"read": "~1.0.5"}
+}
