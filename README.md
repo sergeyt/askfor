@@ -1,5 +1,7 @@
 # askfor
 
+[![NPM][1]](https://nodei.co/npm/askfor/)
+
 Mini node.js module to ask user prompts.
 
 # USAGE
@@ -13,3 +15,4 @@ askfor(['user', 'password'], function(answers) {
 });
 ```
 
+[1]: https://nodei.co/npm/askfor.png?downloads=true&stars=true
